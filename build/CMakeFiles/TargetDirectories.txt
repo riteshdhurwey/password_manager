@@ -1,3 +1,0 @@
-/home/codecrafter/CodeCrafter/password_manager/build/CMakeFiles/password_manager.dir
-/home/codecrafter/CodeCrafter/password_manager/build/CMakeFiles/edit_cache.dir
-/home/codecrafter/CodeCrafter/password_manager/build/CMakeFiles/rebuild_cache.dir
