@@ -1,0 +1,4 @@
+if login fail in mysql server
+do -> 1. docker ps -a
+      2. sudo docker start service_name(mysql8_new)
+      3. mysql -h 127.0.0.1 -P 3306 -u ritesh -P

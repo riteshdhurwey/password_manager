@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/codecrafter/CodeCrafter/password_manager/build",
+  "command": "/usr/bin/g++  -I/home/codecrafter/CodeCrafter/password_manager/include -g -std=gnu++17 -o CMakeFiles/password_manager.dir/src/main.cpp.o -c /home/codecrafter/CodeCrafter/password_manager/src/main.cpp",
+  "file": "/home/codecrafter/CodeCrafter/password_manager/src/main.cpp",
+  "output": "CMakeFiles/password_manager.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/codecrafter/CodeCrafter/password_manager/build",
+  "command": "/usr/bin/g++  -I/home/codecrafter/CodeCrafter/password_manager/include -g -std=gnu++17 -o CMakeFiles/password_manager.dir/src/db_manager.cpp.o -c /home/codecrafter/CodeCrafter/password_manager/src/db_manager.cpp",
+  "file": "/home/codecrafter/CodeCrafter/password_manager/src/db_manager.cpp",
+  "output": "CMakeFiles/password_manager.dir/src/db_manager.cpp.o"
+},
+{
+  "directory": "/home/codecrafter/CodeCrafter/password_manager/build",
+  "command": "/usr/bin/g++  -I/home/codecrafter/CodeCrafter/password_manager/include -g -std=gnu++17 -o CMakeFiles/password_manager.dir/src/password_manager.cpp.o -c /home/codecrafter/CodeCrafter/password_manager/src/password_manager.cpp",
+  "file": "/home/codecrafter/CodeCrafter/password_manager/src/password_manager.cpp",
+  "output": "CMakeFiles/password_manager.dir/src/password_manager.cpp.o"
+},
+{
+  "directory": "/home/codecrafter/CodeCrafter/password_manager/build",
+  "command": "/usr/bin/g++  -I/home/codecrafter/CodeCrafter/password_manager/include -g -std=gnu++17 -o CMakeFiles/password_manager.dir/src/aes.cpp.o -c /home/codecrafter/CodeCrafter/password_manager/src/aes.cpp",
+  "file": "/home/codecrafter/CodeCrafter/password_manager/src/aes.cpp",
+  "output": "CMakeFiles/password_manager.dir/src/aes.cpp.o"
+}
+]
